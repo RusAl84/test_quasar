@@ -60,7 +60,6 @@ export default {
       // console.log("dssdds")
       alert(mas)
     }
-
   },
 }
 </script>
